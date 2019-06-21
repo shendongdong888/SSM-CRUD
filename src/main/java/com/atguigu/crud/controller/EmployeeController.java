@@ -43,7 +43,7 @@ public class EmployeeController {
 	 * 批量删除：1-2-3
 	 * 单个删除：1
 	 * 
-	 * @param id
+	 * @param ids
 	 * @return
 	 */
 	@ResponseBody

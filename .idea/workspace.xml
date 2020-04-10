@@ -1,53 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ssm-crud:war" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8086a21d-99dd-4401-87bd-6ee9c98774f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ssm_crud_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ssm_crud_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_0_9_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_42.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_3_5_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint-state.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ssm_crud_war.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ssm_crud_war.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/ssm_crud_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/ssm_crud_war_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint-state.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint-state.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/atguigu/crud/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/atguigu/crud/controller/EmployeeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/dbconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/dbconfig.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssm-crud.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ssm-crud.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/.gitignore" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -85,40 +50,46 @@
     <session id="1591430436">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="5" />
+          <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.12" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="1" />
+          <entry key="class" value="2" />
           <entry key="java" value="12" />
           <entry key="jsp" value="1" />
-          <entry key="properties" value="1" />
-          <entry key="xml" value="4" />
+          <entry key="properties" value="2" />
+          <entry key="xml" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="1" />
+          <entry key="CLASS" value="2" />
           <entry key="JAVA" value="12" />
           <entry key="JSP" value="1" />
-          <entry key="Properties" value="1" />
-          <entry key="XML" value="4" />
+          <entry key="Properties" value="2" />
+          <entry key="XML" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="31" />
           <entry key="properties" value="6" />
+          <entry key="xml" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="31" />
           <entry key="Properties" value="6" />
+          <entry key="XML" value="52" />
         </counts>
       </usages-collector>
     </session>
@@ -126,27 +97,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/bean/Department.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/EmployeeMapper.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="144" column="14" selection-start-line="144" selection-start-column="14" selection-end-line="144" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/test/MapperTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
+            <state relative-caret-position="931">
               <caret line="60" column="29" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="29" />
             </state>
           </provider>
@@ -164,17 +117,37 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/test/MvcTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            <state relative-caret-position="247">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://D:/software/m2/org/mybatis/mybatis/3.4.2/mybatis-3.4.2.jar!/org/apache/ibatis/session/SqlSession.class">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+            <state relative-caret-position="572">
+              <caret line="158" selection-start-line="158" selection-end-line="158" />
+            </state>
+          </provider>
+          <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sonar-project.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcherServlet-servlet.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://D:/software/m2/org/springframework/spring-test/4.3.6.RELEASE/spring-test-4.3.6.RELEASE.jar!/org/springframework/mock/web/MockHttpServletRequest.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2261">
+              <caret line="177" column="18" selection-start-line="177" selection-start-column="18" selection-end-line="177" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -182,13 +155,13 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/DepartmentMapper.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
+            <state relative-caret-position="1938">
               <caret line="102" column="14" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/dao/DepartmentMapper.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="247">
@@ -198,19 +171,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/service/DepartmentService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/dao/EmployeeMapper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="247">
+              <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -233,6 +197,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/crud/controller/Test1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/atguigu/crud/controller/EmployeeController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/dbconfig.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/crud/test/MvcTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -241,6 +207,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -260,12 +233,17 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ssm-crud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="SSM-CRUD" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="ssm-crud" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="SSM-CRUD" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="SSM-CRUD" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
         </path>
       </expand>
       <select />
@@ -290,159 +268,19 @@
               <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="crud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="crud" type="462c0819:PsiDirectoryNode" />
-              <item name="bean" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="crud" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="crud" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="crud" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="crud" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSM-CRUD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.mybatis:mybatis:3.4.2" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.mybatis:mybatis:3.4.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="mybatis-3.4.2.jar" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.mybatis:mybatis:3.4.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="mybatis-3.4.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="ibatis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ssm-crud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.mybatis:mybatis:3.4.2" type="70bed36:NamedLibraryElementNode" />
-              <item name="mybatis-3.4.2.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="ibatis" type="462c0819:PsiDirectoryNode" />
-              <item name="session" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_ISSUES_SPLIT_PROPORTION" value="0.8840782" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585204556160" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1585212006876" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -461,7 +299,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MvcTest.testPage">
     <configuration name="MapperTest.testCRUD" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="ssm-crud" />
       <extension name="coverage">
@@ -478,8 +316,136 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MvcTest.testPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ssm-crud" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.crud.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.atguigu.crud.test" />
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.crud.test.MvcTest" />
+      <option name="METHOD_NAME" value="testPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.75" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8888/" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ssm-crud:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_ssm-crud" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53170" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Debug with VisualVM">
+        <option name="DEBUG_PORT" value="53171" />
+        <option name="visualVMId" value="9088457073800" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run with VisualVM">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ssm-crud:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.tomcat" />
+      <item itemvalue="JUnit.MapperTest.testCRUD" />
+      <item itemvalue="JUnit.MvcTest.testPage" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MvcTest.testPage" />
         <item itemvalue="JUnit.MapperTest.testCRUD" />
       </list>
     </recent_temporary>
@@ -499,7 +465,13 @@
       <workItem from="1583802294434" duration="594000" />
       <workItem from="1583982778712" duration="173000" />
       <workItem from="1583983969894" duration="1318000" />
-      <workItem from="1585202558107" duration="1889000" />
+      <workItem from="1585202558107" duration="3974000" />
+      <workItem from="1585270083089" duration="67000" />
+      <workItem from="1585276923226" duration="1270000" />
+      <workItem from="1585556246901" duration="638000" />
+      <workItem from="1585636896526" duration="3483000" />
+      <workItem from="1585707864284" duration="4517000" />
+      <workItem from="1585791106594" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="sdd">
       <created>1543422565331</created>
@@ -518,15 +490,29 @@
     <history-entry file="MapperTest_testCRUD - 2020.03.26 at 14h 32m 53s.xml">
       <configuration name="MapperTest.testCRUD" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="MvcTest_testPage - 2020.03.26 at 16h 32m 36s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2020.03.26 at 16h 37m 06s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2020.03.26 at 16h 37m 25s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2020.03.26 at 16h 37m 57s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MvcTest_testPage - 2020.03.26 at 16h 40m 09s.xml">
+      <configuration name="MvcTest.testPage" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5973000" />
+    <option name="totallyTimeSpent" value="18652000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19436997" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16152816" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -534,25 +520,26 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.033236995" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.9248555" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7587131" weight="0.17027417" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.7587131" weight="0.040462427" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.24128686" side_tool="true" weight="0.5202312" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="10" weight="0.32947975" />
       <window_info anchor="bottom" id="Spring" order="11" />
-      <window_info anchor="bottom" id="SonarLint" order="12" sideWeight="0.71849865" weight="0.102601156" />
+      <window_info anchor="bottom" id="SonarLint" order="12" sideWeight="0.71849865" weight="0.10115607" />
       <window_info anchor="bottom" id="Run with VisualVM" order="13" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="bottom" id="Database Changes" order="15" show_stripe_button="false" />
       <window_info anchor="bottom" id="MyBatis Log" order="16" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="17" />
+      <window_info anchor="bottom" id="Application Servers" order="18" weight="0.32947975" />
+      <window_info anchor="bottom" id="Messages" order="19" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -560,7 +547,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Maven Projects" order="7" visible="true" weight="0.17426273" />
+      <window_info active="true" anchor="right" id="Maven Projects" order="7" visible="true" weight="0.22184986" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
@@ -587,9 +574,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
           <caret line="167" column="50" selection-start-line="167" selection-start-column="50" selection-end-line="167" selection-end-column="50" />
-          <folding>
-            <element signature="e#1411#1420#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -630,52 +614,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/test/MBGTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/test/MvcTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/test/MapperTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="60" column="29" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/service/DepartmentService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="18" column="49" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/EmployeeMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="144" column="14" selection-start-line="144" selection-start-column="14" selection-end-line="144" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/dao/EmployeeMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/DepartmentMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="102" column="14" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -686,12 +628,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/EmployeeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2736">
+          <caret line="144" column="14" selection-start-line="144" selection-start-column="14" selection-end-line="144" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/test/MapperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="60" column="29" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/test/MBGTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/test/MvcTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sonar-project.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcherServlet-servlet.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://D:/software/m2/org/springframework/spring-test/4.3.6.RELEASE/spring-test-4.3.6.RELEASE.jar!/org/springframework/mock/web/MockHttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="177" column="18" selection-start-line="177" selection-start-column="18" selection-end-line="177" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mapper/DepartmentMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="102" column="14" selection-start-line="102" selection-start-column="14" selection-end-line="102" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/dao/DepartmentMapper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/crud/dao/EmployeeMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="158" selection-start-line="158" selection-end-line="158" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
     </entry>
   </component>
   <component name="masterDetails">
@@ -774,6 +779,7 @@
   </component>
   <component name="mavenExecuteGoalHistory">
     <option value="$PROJECT_DIR$" />
+    <option value="sonar:sonar \ -Dsonar.host.url=http://localhost:9000 \ -Dsonar.login=8a783d83dc059298066d10d775ec0f314815d80b" />
     <option value="sonar:sonar \   -Dsonar.projectKey=SSM-CRUD \   -Dsonar.host.url=http://localhost:9000 \   -Dsonar.login=777b1cf1ebd9a9cc5cb08b435b52dc6763e75fbd" />
   </component>
 </project>
